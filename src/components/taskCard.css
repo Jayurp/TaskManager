@@ -1,0 +1,33 @@
+.cardParent
+{
+    display: flex;
+    flex-direction: column;
+    border: solid 1px;
+    padding: 2%;
+    border-radius: 1rem;
+    width: 40%;
+}
+
+.editButton
+{
+    padding: 1%;
+    width: 100px;
+    margin: 1%;
+}
+
+.deleteButton
+{
+    padding: 1%;
+    width: 100px;
+    margin: 1%;
+}
+
+.deleteYes
+{
+    margin: 10px;
+}
+
+.deleteNo
+{
+    margin: 10px;
+}

@@ -1,0 +1,28 @@
+.fetchButton
+{
+    padding: 1%;
+    border-radius: 1rem;
+    margin: 1%;
+}
+
+.addTaskButton
+{
+    padding: 1%;
+    border-radius: 1rem;
+    margin: 1%;
+}
+
+.searchInput
+{
+    height: 50px;
+    border-radius: 0.5rem;
+    padding: 1%;
+}
+
+.searchButton
+{
+    height: 50px;
+    margin-left: 10px;
+    width: 5%;
+    border-radius: 1rem;
+}
