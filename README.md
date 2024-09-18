@@ -28,3 +28,6 @@ TO run the frontend
 
 1) Naviagte to .\TaskManager
 2) execute "npm start" in cmd 
+
+https://docs.google.com/document/u/0/d/1uVXadS28fdgO11LGbBTmRe47obNUnt7ogCa8tESVVbg/mobilebasic
+
